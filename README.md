@@ -1,5 +1,5 @@
 # 2020-Credit-Card-Fraud-Detection
-The project in Machine Learning Class.
+Machine Learning Project
 
 **Notion Link** : https://www.notion.so/d4fd5b48a527490e9ee5dc56c9b8f9fc?v=5747d966126b4ac8b37db71905959220
 
